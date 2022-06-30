@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1003934358024",
+    "firebase_url": "https://sampah-641f8-default-rtdb.firebaseio.com",
+    "project_id": "sampah-641f8",
+    "storage_bucket": "sampah-641f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003934358024:android:9515aea4c2c1e4b610cfbd",
+        "android_client_info": {
+          "package_name": "com.example.sampah2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003934358024-hrs9qpcicl40m586losdf8jevvihv5ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7nFZFp9LQ7UiaZmzClzvwZW_CzgWqKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003934358024-hrs9qpcicl40m586losdf8jevvihv5ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003934358024:android:7fe671406c09d71310cfbd",
+        "android_client_info": {
+          "package_name": "com.example.sampahpintar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003934358024-hrs9qpcicl40m586losdf8jevvihv5ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7nFZFp9LQ7UiaZmzClzvwZW_CzgWqKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003934358024-hrs9qpcicl40m586losdf8jevvihv5ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003934358024:android:07e5e34fd16618f710cfbd",
+        "android_client_info": {
+          "package_name": "com.uc.realtimesensoriot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003934358024-hrs9qpcicl40m586losdf8jevvihv5ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7nFZFp9LQ7UiaZmzClzvwZW_CzgWqKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003934358024-hrs9qpcicl40m586losdf8jevvihv5ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
